@@ -19,6 +19,11 @@ namespace Koreal
         }
 
         public void Second() { }
+
+        public void Third(params int [] array)
+        {
+
+        }
         
     }
 }
