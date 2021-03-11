@@ -25,5 +25,8 @@ namespace Koreal
 
         }
         
+        public void Third() { }
+
+
     }
 }
