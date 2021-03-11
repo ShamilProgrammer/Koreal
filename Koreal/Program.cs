@@ -10,7 +10,12 @@ namespace Koreal
     {
         static void Main(string[] args)
         {
+            
+        }
 
+        public void Add()
+        {
+            Console.WriteLine("Hello what are");
         }
     }
 }
