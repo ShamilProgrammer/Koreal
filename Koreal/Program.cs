@@ -17,5 +17,13 @@ namespace Koreal
         {
             Console.WriteLine("Hello what are");
         }
+
+        /// <summary>
+        /// New method 
+        /// </summary>
+        public void Second()
+        {
+
+        }
     }
 }
