@@ -20,5 +20,8 @@ namespace Koreal
 
         public void Second() { }
         
+        public void Third() { }
+
+
     }
 }
