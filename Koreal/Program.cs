@@ -17,5 +17,8 @@ namespace Koreal
         {
             Console.WriteLine("Hello what are");
         }
+
+        public void Second() { }
+        
     }
 }
